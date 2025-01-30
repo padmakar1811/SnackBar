@@ -1,0 +1,6 @@
+jdk:
+  version: openjdk17
+
+build:
+  script:
+    - ./gradlew build
